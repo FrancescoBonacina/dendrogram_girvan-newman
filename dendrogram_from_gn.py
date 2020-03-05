@@ -276,7 +276,7 @@ def gn_agglomerative_matrix(G, list_gn_partitions):
         This is a matrix of the same type of the one created by the
         'scipy.cluster.hierarchy.linkage()' function.
         
-        The goal of the 'gn_agglomerative_matrix()' function is to create a matrix we can 
+        The purpose of the 'gn_agglomerative_matrix()' function is to create a matrix we can 
         use to plot a dendrogram with 'scipy.cluster.hierarchy.dendrogram()'.
         
     Raises
