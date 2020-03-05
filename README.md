@@ -9,3 +9,5 @@ Alternatively add dendrogram_from_gn.py directly to the same directory of your p
 ```python
 import dendrogram_from_gn
 ```
+
+For any questions, doubts or suggestions don't hesitate to get in touch at <francesco.bonacina@edu.unito.it>, or via the [issues](https://github.com/FrancescoBonacina/dendrogram_girvan-newman/issues)!
