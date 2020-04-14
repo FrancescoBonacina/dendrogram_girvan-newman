@@ -1,7 +1,7 @@
 # dendrogram_girvan-newman
 Module which implements useful functions to plot dendrograms of community detections performed by the Girvan-Newman algorithm on graphs.
 
-`dendrogram_from_girvan_newman` requires python 3, it is designed around the `networkx` python library and it was tested using networkx 2.1. It uses also `community_louvain.modularity` from `community` to compute the modularity of the graph partitions.
+`dendrogram_from_girvan_newman` requires python 3, it is designed around the `networkx` python library and it was tested using networkx 2.1.
 The notebook in example also uses the `scipy` python library (version 1.4.1).
 
 To use the code just download (or clone) the current project and add the file dendrogram_from_gn.py to the `PYTHONPATH` variable.
